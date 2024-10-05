@@ -355,7 +355,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 420px;
+  max-width: 420px;
   height: 405px;
   flex-wrap: wrap;
 }
